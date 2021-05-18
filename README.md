@@ -1,4 +1,4 @@
-# AFEMT21
+# Advanced FEM Techniques 2021 - AFEMT21 
 
 Lecturer: Andrea Cangiani
 
@@ -28,14 +28,23 @@ mathLab
 
 Next Lectures: 
 Wednesday, May 19, 2021 - 11-13
+
 Friday, May 21, 2021 - 9-11
+
 Wednesday, May 26, 2021 - 11-13
+
 Friday, May 28, 2021 - 9-11
+
 Tuesday, June 1, 2021 - 11-13
+
 Thursday, June 3, 2021 - 11-13
+
 Tuesday, June 8, 2021 - 11-13
+
 Thursday, June 10, 2021 - 11-13
+
 Tuesday, June 15, 2021 - 11-13
+
 Thursday, June 17, 2021 - 11-13
 
 Zoom Meeting
